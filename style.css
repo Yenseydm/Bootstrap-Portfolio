@@ -1,0 +1,74 @@
+body {
+    background-image: url("images/bkg.jpg");
+    background-repeat: repeat;
+    font-family: 'Pompiere', cursive;
+  }
+  .nav {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    height: 60px;
+    line-height: 10px;
+  }
+
+  .nav-item {
+      font-size: 25px;
+  }
+
+  .nav-link {
+      color: black;
+  }
+  .myName {
+    font-weight: bold;
+  }
+
+.card-body {
+    margin: 20px
+}
+
+.mainbox {
+    margin: 30px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.footer {
+    background-color: white;
+}
+
+.bioP {
+    font-size: 20px;
+}
+
+.card {
+
+    box-shadow: 10px 10px 5px grey;
+}
+
+.profbox {
+    margin-bottom: 100px;
+}
+
+a{
+    color: black;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.mainTitle {
+    text-align: left;
+    font-size: 40px;
+}
+
+.MainName {
+    text-align: center;
+    margin: 20px;
+    font-size: 35px;
+}
+
+.picMe {
+    margin-top: 30px;
+}
