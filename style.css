@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/bkg.jpg");
+    background-image: url("https://images.unsplash.com/photo-1466781783364-36c955e42a7f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80");
     background-repeat: repeat;
     font-family: 'Pompiere', cursive;
   }
@@ -42,7 +42,7 @@ body {
 }
 
 .card {
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: 10px 10px 5px rgb(99, 112, 99, 0.5);
 }
 
 .profbox {
@@ -78,3 +78,6 @@ a{
     box-shadow: 10px 10px 5px grey;
 }
 
+.social{
+    text-align: center;
+}
