@@ -39,6 +39,7 @@ body {
 
 .bioP {
     font-size: 20px;
+    text-align: left;
 }
 
 .card {
@@ -79,5 +80,9 @@ a{
 }
 
 .social{
+    text-align: center;
+}
+
+p{
     text-align: center;
 }
